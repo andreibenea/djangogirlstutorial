@@ -4,7 +4,7 @@ Copied over from `https://github.com/andreibenea/sdev-220/tree/main/module-4/dja
 
 Purpose is to allow easier deployment & updates to `www.pythonanywhere.com`.
 
-### cloning
+## cloning
 
 Run the following commands (Windows users may need to use `python` instead of `python3`):
 1. `git clone git@github.com:andreibenea/djangogirlstutorial.git`
